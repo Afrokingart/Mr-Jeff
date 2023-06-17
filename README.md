@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Afrokingart
+- 👋 Hi, I’m @MRJEFF
 - 👀 I’m interested in Front-End Web Development & UX/UI Design
 - 🌱 I’m currently learning UX/UI & Front-End Web Development 
 - 💞️ I’m looking to collaborate on UX/UI & Front-End Web Dev
